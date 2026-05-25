@@ -1,13 +1,16 @@
 <HDBIMToolsInfo>
-  <LatestVersion>1.0.0.0</LatestVersion>
+  <!-- Bước 1: Cập nhật số version -->
+  <LatestVersion>1.0.0.1</LatestVersion>
   <DownloadUrl>https://hdbimtools.netlify.app/#download</DownloadUrl>
   <Updates>
 
+  <!-- Bước 2: Viết nội dung mới vào CapNhatMoi -->
     <CapNhatMoi>
 ✔ Phiên bản 1.0.0.1 phát hành ngày 25/05/2026:
 1. Nội dung cập nhật mới nhất viết ở đây.
     </CapNhatMoi>
 
+  <!-- Bước 3: Chuyển nội dung cũ xuống LichSu -->
     <LichSu>
 ✔ Phiên bản 1.0.0.0 phát hành ngày 04/09/2022:
 1. Cập nhật tool "Ốp Lát Từng Viên Gạch".
