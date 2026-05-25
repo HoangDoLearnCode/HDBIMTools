@@ -1,0 +1,28 @@
+<HDBIMToolsInfo>
+  <LatestVersion>1.0.0.0</LatestVersion>
+  <DownloadUrl>https://hdbimtools.netlify.app/#download</DownloadUrl>
+  <Updates>
+
+    <CapNhatMoi>
+✔ Phiên bản 1.0.0.1 phát hành ngày 25/05/2026:
+1. Nội dung cập nhật mới nhất viết ở đây.
+    </CapNhatMoi>
+
+    <LichSu>
+✔ Phiên bản 1.0.0.0 phát hành ngày 04/09/2022:
+1. Cập nhật tool "Ốp Lát Từng Viên Gạch".
+2. Cập nhật tool "Tạo Grids".
+3. Cập nhật tool "Dựng Grids/levels Từ AutoCAD".
+4. Cập nhật tool "Dựng Columns Từ AutoCAD".
+5. Cập nhật tool "Tạo Ranh Đất VN2000".
+
+✔ Phiên bản 1.0.3.0 phát hành ngày 14/10/2022:
+1. Cập nhật tool "Triển Khai Cửa Legend Component" cho Revit 2020 - 2023.
+2. Hỗ trợ thêm các phiên bản Revit 2020, 2021 và tích hợp các family trong file cài đặt ATool.
+3. Fix lỗi mở tool "Hoàn Thiện Room".
+4. Fix lỗi nút dừng tiến trình tool "AutoJoin".
+5. Fix lỗi mở tool "Dọn Dẹp File".
+    </LichSu>
+
+  </Updates>
+</HDBIMToolsInfo>
