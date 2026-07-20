@@ -1,0 +1,7 @@
+﻿{
+    "version":  "1.0.1",
+    "minimumRevit":  2027,
+    "maximumRevit":  2027,
+    "packageUrl":  "https://github.com/HoangDoLearnCode/HDBIMTools/releases/download/v1.0.1/HDBIM-1.0.1.zip",
+    "sha256":  "6CD2C4ADF4F60781D3DCA2A7F629DC2031D89826D36F6DCD338BCF10DD97053A"
+}
