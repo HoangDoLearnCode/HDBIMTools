@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "minimumRevit":  2022,
     "maximumRevit":  2027,
-    "packageUrl":  "https://github.com/HoangDoLearnCode/HDBIMTools/releases/download/v1.0.10/HDBIM-1.0.10.zip",
-    "sha256":  "569CCC5E55EF84E10A1555D445D8182F68B7A5C0D5D604747556D506040F1FE9",
-    "signature":  "DSAWNs956+qXMbIKUps1ysi6O08JUgrOhuRh/o3AO6dKvj7BBXV0nZg7jQlTwCoJeWv7B8YouEjHGHno9ZLqRuyetP0CfspnqWGVyZaZsB6v6VRiB5nT/y2o//I+dg5qEAI16WO8R6lF5BFmYkuHW0AxI6aVWxY19r2eXOp/N/ZlG713EQ0FpXsDAxsXHKW2E2ZqBP9JPLukY+dsyIX1SdVr55ick6042M/fqoIK/if0wTiTNcz96E3rMNRQU6DoSv3n/QCibwtIAcW7rdons81BLr6Y59q9Y6Gds7Vu6Gba5Rv4mTpJKoGwLSFRVpNU4Og5VnqQTk452QgDwrKx4g=="
+    "packageUrl":  "https://github.com/HoangDoLearnCode/HDBIMTools/releases/download/v1.0.11/HDBIM-1.0.11.zip",
+    "sha256":  "0218136E923B01F4E73B10DD0153D1C69F5B6402E679B01AA4A4407725D8010A",
+    "signature":  "F6nCNKPH6SLvDrblwU+TwiLm0ZgxitgyX3YrzI3pKJZt9EiXPYwVUTkjvjKpX0UXueKIf6YAfazw93nDFzFn2cepPdPPKOnAecLuOUciuvOe/8xeqGOiU3iLDumL+Eo8iaJ5XCiGsv9KBhERlxi+5TkVWekNvXYaB8UgHGQiqU6clVpeW+A+KrLu53VuUzKNQQLbwLzkrMVnHUStGl2x8f8F4e92Pnpi0ecjSoL6ze1MgsxptWihQFi0R7C3fw6yUlZQuEmp/swRjljCkgTW13U+2LPikec1S0esbHoxtoOUj3qMK6+v/7gtT/T68wcUqBbNLlGUBXwD8gfrtN2e5g=="
 }
