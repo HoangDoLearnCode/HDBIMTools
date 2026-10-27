@@ -6,8 +6,8 @@
   </p>
   <p align="center">
     <a href="https://hdbimtools.netlify.app/"><img src="https://img.shields.io/badge/Website-hdbimtools.netlify.app-007acc?style=flat-square&logo=netlify" alt="Website"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Revit-2022--2026-0696D7?style=flat-square&logo=autodesk" alt="Revit Versions"></a>
-    <a href="#"><img src="https://img.shields.io/badge/.NET-Framework_4.8_%7C_8.0-512BD4?style=flat-square&logo=dotnet" alt=".NET"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Revit-2022--2027-0696D7?style=flat-square&logo=autodesk" alt="Revit Versions"></a>
+    <a href="#"><img src="https://img.shields.io/badge/.NET-Framework_4.8_%7C_8.0_10.0-512BD4?style=flat-square&logo=dotnet" alt=".NET"></a>
     <a href="https://youtube.com/@HDBIMTools"><img src="https://img.shields.io/badge/YouTube-@HDBIMTools-FF0000?style=flat-square&logo=youtube" alt="YouTube"></a>
   </p>
 </p>
