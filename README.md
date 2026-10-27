@@ -19,7 +19,7 @@
 **HDBIM Tools** là bộ Add-in mở rộng dành cho Autodesk Revit, được thiết kế nhằm giúp các Kỹ sư BIM, Kỹ sư Kết cấu và Kiến trúc sư tiết kiệm thời gian, giảm thiểu các thao tác thủ công lặp đi lặp lại và nâng cao độ chính xác trong quá trình triển khai mô hình 3D cũng như hồ sơ bản vẽ.
 
 > [!NOTE]
-> Add-in tương thích tốt trên các phiên bản **Autodesk Revit từ 2022 đến 2026**, giao diện hiện đại hỗ trợ Dark/Light Theme linh hoạt.
+> Add-in tương thích tốt trên các phiên bản **Autodesk Revit từ 2022 đến 2027**, giao diện hiện đại hỗ trợ Dark/Light Theme linh hoạt.
 
 ---
 
@@ -56,14 +56,14 @@
 1. Tải bộ cài đặt mới nhất `.exe` tại mục [Releases](../../releases) hoặc truy cập [Trang chủ HDBIM Tools](https://hdbimtools.netlify.app/).
 2. Đóng tất cả các phiên làm việc của Autodesk Revit đang khởi chạy.
 3. Chạy file cài đặt `HDBIMTools_Setup.exe` và làm theo hướng dẫn trên màn hình.
-4. Mở Revit, Ribbon **HDBIM Tools** sẽ xuất hiện trên thanh công cụ.
+4. Mở Revit, Ribbon **HDBIM** sẽ xuất hiện trên thanh công cụ.
 
 ---
 
 ## 💻 Công nghệ sử dụng
 
 * **Ngôn ngữ lập trình:** C#
-* **Nền tảng:** .NET Framework 4.8 / .NET 8.0
+* **Nền tảng:** .NET Framework 4.8 / .NET 8.0 / .NET 10.0
 * **API Framework:** Revit API, WPF (Material Design UI Architecture)
 * **SDK:** `Nice3point.Revit.Sdk`
 
