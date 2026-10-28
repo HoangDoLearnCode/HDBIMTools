@@ -17,10 +17,10 @@
 
 ## 📌 Giới thiệu
 
-**HDBIM Tools** là bộ Add-in mở rộng toàn diện dành cho Autodesk Revit, được thiết kế chuyên biệt nhằm giúp các Kỹ sư BIM, Kỹ sư Kết cấu và Kiến trúc sư tự động hóa các tác vụ lặp đi lặp lại, tiết kiệm thời gian triển khai mô hình 3D và nâng cao tối đa độ chính xác của hồ sơ bản vẽ kỹ thuật.
+**HDBIM Tools** là bộ Add-in mở rộng dành cho Autodesk Revit, được thiết kế dựa trên nhu cầu sử dụng thực tế của tác giả. Có thể các tính năng của **HDBIM Tools** chưa phù hợp với chuyên ngành của tất cả mọi người nhưng tôi tin có nhiều tính năng vẫn rất hữu ích trong quá trình sử dụng phần mềm Revit, giúp các kỹ sư tự động hóa các tác vụ lặp đi lặp lại, tiết kiệm thời gian triển khai mô hình 3D và nâng cao tối đa độ chính xác của hồ sơ bản vẽ kỹ thuật.
 
-> [!IMPORTANT]
-> Add-in tương thích hoàn hảo trên các phiên bản **Autodesk Revit từ 2022 đến 2027**, đi kèm giao diện hiện đại hỗ trợ chuyển đổi linh hoạt giữa **Dark Mode** và **Light Mode**.
+> [NOTES]
+> Add-in tương thích hoàn hảo trên các phiên bản **Autodesk Revit từ 2022 đến 2027**.
 
 ---
 
@@ -54,10 +54,10 @@
 
 ## 🚀 Hướng dẫn Cài đặt
 
-1. Tải bộ cài đặt mới nhất định dạng `.exe` tại mục [Releases](../../releases) hoặc truy cập trực tiếp [Trang chủ HDBIM Tools](https://hdbimtools.netlify.app/).
+1. Tải bộ cài đặt mới nhất định dạng `.exe` tại mục [Releases](../../releases/Setup.exe) hoặc truy cập trực tiếp Trang chủ [HDBIM Tools](https://hdbimtools.netlify.app/).
 2. Đóng hoàn toàn các phiên làm việc của Autodesk Revit đang mở trước khi tiến hành cài đặt.
 3. Chạy file `HDBIMTools_Setup.exe` và làm theo các bước hướng dẫn trên màn hình.
-4. Mở lại Revit, bạn sẽ nhìn thấy Ribbon tab **HDBIM** xuất hiện trên thanh công cụ chính.
+4. Mở lại Revit, bạn sẽ nhìn thấy Ribbon tab **HDBIM** xuất hiện trên thanh Ribbon.
 
 ---
 
