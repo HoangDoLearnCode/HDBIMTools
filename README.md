@@ -57,7 +57,7 @@
 1. Tải bộ cài đặt mới nhất định dạng `.exe` tại mục [Releases](../../releases/Setup.exe) hoặc truy cập trực tiếp Trang chủ [HDBIM Tools](https://hdbimtools.netlify.app/).
 2. Đóng hoàn toàn các phiên làm việc của Autodesk Revit đang mở trước khi tiến hành cài đặt.
 3. Chạy file `HDBIMTools_Setup.exe` và làm theo các bước hướng dẫn trên màn hình.
-4. Mở lại Revit, bạn sẽ nhìn thấy Ribbon tab **HDBIM** xuất hiện trên thanh Ribbon.
+4. Mở lại Revit, bạn sẽ nhìn thấy Tab **HDBIM** xuất hiện trên thanh Ribbon Revit của mình.
 
 ---
 
@@ -65,7 +65,7 @@
 
 Dự án được xây dựng dựa trên các tiêu chuẩn phát triển phần mềm hiện đại và tối ưu hiệu suất cho Revit:
 - **Ngôn ngữ:** C#
-- **Môi trường .NET:** .NET Framework 4.8 / .NET 8.0 / .NET 10.0
+- **Multi-Targeting (Tương thích đa phiên bản):** .NET Framework 4.8 (Revit 2022 - 2024) / .NET 8.0 (Revit 2025 - 2026) / .NET 10.0 (Revit 2027)
 - **UI Architecture:** WPF (Windows Presentation Foundation)
 
 ---
