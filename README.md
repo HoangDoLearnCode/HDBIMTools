@@ -66,8 +66,7 @@
 Dự án được xây dựng dựa trên các tiêu chuẩn phát triển phần mềm hiện đại và tối ưu hiệu suất cho Revit:
 - **Ngôn ngữ:** C#
 - **Môi trường .NET:** .NET Framework 4.8 / .NET 8.0 / .NET 10.0
-- **UI Architecture:** WPF (Windows Presentation Foundation) kết hợp Material Design
-- **Core SDK:** `Nice3point.Revit.Sdk`
+- **UI Architecture:** WPF (Windows Presentation Foundation)
 
 ---
 
