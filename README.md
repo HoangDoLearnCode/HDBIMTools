@@ -6,11 +6,10 @@
   </p>
   <p align="center">
     <a href="https://hdbimtools.netlify.app/"><img src="https://img.shields.io/badge/Website-hdbimtools.netlify.app-007acc?style=flat-square&logo=netlify" alt="Website"></a>
-    <a href="https://github.com/HoangDoLearnCode/HDBIMTools/releases"><img src="https://img.shields.io/github/v/release/HoangDoLearnCode/HDBIMTools?style=flat-square&color=blue&logo=github" alt="GitHub Release"></a>
+    <a href="YOUR_DIRECT_LINK_TO_SETUP.EXE"><img src="https://img.shields.io/badge/Download-Setup.exe-brightgreen?style=flat-square&logo=github" alt="Download Setup"></a>
     <a href="#"><img src="https://img.shields.io/badge/Revit-2022%20--%202027-0696D7?style=flat-square&logo=autodesk" alt="Revit Versions"></a>
     <a href="#"><img src="https://img.shields.io/badge/.NET-Framework%204.8%20%7C%208.0%20%7C%2010.0-512BD4?style=flat-square&logo=dotnet" alt=".NET"></a>
     <a href="https://youtube.com/@HDBIMTools"><img src="https://img.shields.io/badge/YouTube-@HDBIMTools-FF0000?style=flat-square&logo=youtube" alt="YouTube"></a>
-    <a href="LICENSE"><img src="https://img.shields.io/github/license/HoangDoLearnCode/HDBIMTools?style=flat-square&color=success" alt="License"></a>
   </p>
 </p>
 
