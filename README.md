@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HoangDoLearnCode/HDBIMTools/main/assets/logo.png" alt="HDBIM Tools Logo" width="120" height="120">
+  <img src="https://raw.githubusercontent.com/HoangDoLearnCode/HDBIMTools/main/assets/LogoHDTool_512px.png" alt="HDBIM Tools Logo" width="120" height="120">
   <h1 align="center">HDBIM Tools</h1>
   <p align="center">
     <b>Bộ công cụ hỗ trợ và tối ưu hóa quy trình làm việc tự động trên Autodesk Revit</b>
