@@ -59,9 +59,8 @@
 
 ## 🖥️ Giao diện ứng dụng & Demo
 
-| Dockable Panel & Cloud Library | Batch Parameter Tools |
-| :---: | :---: |
-| 🖼️ *(Cập nhật ảnh hoặc GIF demo tại đây)* | 🖼️ *(Cập nhật ảnh hoặc GIF demo tại đây)* |
+
+<img width="2106" height="121" alt="image" src="https://github.com/user-attachments/assets/5943c983-b06c-4021-aeb2-23ce6441fd59" />
 
 ---
 
