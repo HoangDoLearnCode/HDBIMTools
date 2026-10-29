@@ -19,28 +19,41 @@
 
 **HDBIM Tools** là bộ Add-in mở rộng dành cho Autodesk Revit, được thiết kế dựa trên nhu cầu sử dụng thực tế của tác giả. Có thể các tính năng của **HDBIM Tools** chưa phù hợp với chuyên ngành của tất cả mọi người nhưng tôi tin có nhiều tính năng vẫn rất hữu ích trong quá trình sử dụng phần mềm Revit, giúp các kỹ sư tự động hóa các tác vụ lặp đi lặp lại, tiết kiệm thời gian triển khai mô hình 3D và nâng cao tối đa độ chính xác của hồ sơ bản vẽ kỹ thuật.
 
-> [NOTES]
+> [!NOTE]
 > Add-in tương thích hoàn hảo trên các phiên bản **Autodesk Revit từ 2022 đến 2027**.
 
 ---
 
 ## ✨ Tính năng nổi bật
 
-### ☁️ 1. Thư viện Family Đám mây (Cloud Family Manager)
-- **Quản lý tập trung:** Truy cập và quản lý kho lưu trữ file `.rfa` trực tiếp trên đám mây mượt mà.
-- **Kéo & thả trực quan (Drag & Drop):** Hỗ trợ xem trước hình ảnh 3D thumbnail và chèn thẳng Family vào dự án ngay trong giao diện Dockable Panel.
-- **Đồng bộ thông số tự động:** Tự động trích xuất hình ảnh thu nhỏ và đồng bộ hóa metadata nhanh chóng.
 
-### 🔍 2. Tìm kiếm & Thay thế Tham số (Batch Find & Replace)
-- Thao tác tìm kiếm và thay thế chuỗi ký tự hàng loạt cho các tham số (`Parameters`), ký hiệu `Mark`, `Prefix/Suffix` trên toàn bộ mô hình hoặc trên các phần tử được chọn (`Selected Elements`).
+### 📊 Xuất Schedule sang Excel chuyên nghiệp
+- **Trích xuất dữ liệu toàn diện:** Chuyển đổi nhanh chóng toàn bộ bảng khối lượng, thông số kỹ thuật từ Revit Schedule sang định dạng Excel với cấu trúc bảng biểu và định dạng được chuẩn hóa hoàn hảo.
+- **Tối ưu xử lý dữ liệu:** Hỗ trợ đắc lực cho công tác lập hồ sơ khối lượng, bóc tách vật tư và kết nối dữ liệu sang các giai đoạn tính toán tiếp theo.
 
-### 🏗️ 3. Công cụ Cốt thép & Hình học (Rebar & Geometry Utilities)
-- Tự động hóa quá trình bố trí và tạo cốt thép cho các cấu kiện hình học phức tạp, Adaptive Families.
-- Công cụ chuyển đổi và tính toán chiều dài cốt thép thông minh, chuẩn xác đến từng milimét.
+### 🏗️ Dựng cột & Cọc tự động từ bản vẽ AutoCAD
+- **Tự động hóa định vị kết cấu:** Tự động triển khai mô hình bằng khả năng đọc trực tiếp tọa độ, cao độ và kích thước từ file CAD (`.dwg`).
+- **Triển khai hàng loạt:** Tự động hóa hoàn toàn quy trình đặt và dựng hệ thống cột, cọc chuẩn xác tuyệt đối theo đúng thiết kế, giảm thiểu thao tác thủ công.
 
-### 🛠️ 4. Bộ công cụ tiện ích mở rộng (Utilities)
-- Tự động hóa quy trình tạo lập và quản lý Sheet, View, Parameter hàng loạt.
-- Tích hợp công cụ kết nối AutoCAD LISP và chuẩn hóa cấu trúc dữ liệu đầu vào.
+### 🧹 Purge Model Toàn diện (Deep Clean)
+- **Tối ưu hiệu năng mô hình:** Công cụ "dọn rác" chuyên sâu giúp giải phóng dung lượng, làm sạch triệt để các mô hình Revit nặng nề và ì ạch.
+- **Lọc và xóa thông minh:** Tự động quét và loại bỏ sạch sẽ các View mồ côi, Sheet trống, Schedule thừa, cùng hệ thống View Filter không sử dụng, giúp file chạy mượt mà và ổn định hơn.
+
+### 🪵 Tạo & Thống kê Ván khuôn (Formwork) tự động
+- **Nhận diện hình học thông minh:** Tự động phân tích hình học cấu kiện bê tông để sinh lớp ván khuôn (Formwork) chính xác theo từng vị trí cấu kiện.
+- **Bóc tách khối lượng chi tiết:** Tự động hóa việc tính toán diện tích ván khuôn, cung cấp số liệu trực quan phục vụ trực tiếp cho công tác thi công và lập biện pháp hiện trường.
+
+### 📐 Xuất Sheet Revit sang file AutoCAD
+- **Đồng bộ hóa hồ sơ giao đối tác:** Giải quyết triệt để bài toán bàn giao sản phẩm dạng CAD bằng tính năng xuất hàng loạt các Sheet bản vẽ từ Revit sang định dạng `.dwg`.
+- **Chuẩn hóa nét vẽ:** Đảm bảo giữ nguyên tỷ lệ, hệ thống layer và kiểu chữ sắc nét, tối ưu hóa thời gian hậu kỳ bản vẽ.
+
+### 🏷️ Quản lý & Đổi tên View, Sheet hàng loạt
+- **Chuẩn hóa cây thư mục dự án:** Áp dụng quy tắc đặt tên tự động cho hàng loạt View và Sheet theo cú pháp linh hoạt tùy chỉnh.
+- **Kiểm soát trực quan:** Giúp Project Browser luôn ngăn nắp, khoa học và tuân thủ nghiêm ngặt các tiêu chuẩn BIM (BIM Standards) ngay cả với các dự án quy mô lớn.
+
+### 📍 Trích xuất Tọa độ đối tượng thông minh
+- **Bắt tọa độ không gian chính xác:** Truy xuất nhanh chóng hệ tọa độ $(X, Y)$ của các đối tượng trong mô hình Revit.
+- **Hỗ trợ khảo sát & thi công:** Cung cấp nguồn dữ liệu tin cậy để định vị cấu kiện, kết nối mô hình với các thiết bị trắc đạc hoặc phần mềm ngoài hiện trường.
 
 ---
 
