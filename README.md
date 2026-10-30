@@ -60,7 +60,7 @@
 ## 🖥️ Giao diện ứng dụng & Demo
 
 
-<img width="2106" height="121" alt="image" src="https://github.com/user-attachments/assets/5943c983-b06c-4021-aeb2-23ce6441fd59" />
+<img width="2104" height="215" alt="image" src="https://github.com/user-attachments/assets/fd605af6-4d1d-4939-bfca-fabd06698c1b" />
 
 ---
 
