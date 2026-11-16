@@ -111,7 +111,7 @@ h1{font-size:clamp(1.2rem,7.5cqw,4rem);line-height:1.14;letter-spacing:-.035em;m
 .ft{position:relative;overflow:hidden;width:100%;border:0;cursor:zoom-in;font:inherit;color:inherit;height:124px;border-radius:12px;margin-bottom:1.1rem;display:grid;place-items:center;background:linear-gradient(var(--line) 1px,transparent 1px) 0 0/16px 16px,linear-gradient(90deg,var(--line) 1px,transparent 1px) 0 0/16px 16px,#f3f6fb}
 .ft>:first-child{transition:transform .4s cubic-bezier(.2,.7,.2,1)}
 .fc:hover .ft>:first-child{transform:scale(1.08)}
-.ft img,.ft video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ft img,.ft video{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:12px}
 .zm{position:absolute;top:8px;right:8px;width:30px;height:30px;display:grid;place-items:center;border-radius:9px;background:rgba(255,255,255,.92);color:var(--blue);font-size:18px;box-shadow:var(--sh);opacity:0;transform:scale(.85);transition:opacity .25s,transform .25s}
 .ft:hover .zm,.ft:focus-visible .zm{opacity:1;transform:none}
 .fc h3{font-size:1.05rem;margin-bottom:.4rem;letter-spacing:-.01em}
@@ -130,7 +130,7 @@ html:has(dialog[open]){overflow:hidden}
 @keyframes zi{from{opacity:0;transform:scale(.92) translateY(12px)}}
 @keyframes fi{from{opacity:0}}
 .lb figure{position:relative;background:#fff;border-radius:20px;overflow:hidden;box-shadow:0 40px 90px -30px rgba(0,0,0,.8)}
-.lbi{position:relative;width:100%;aspect-ratio:16/10;max-height:76vh;background:linear-gradient(var(--line) 1px,transparent 1px) 0 0/20px 20px,linear-gradient(90deg,var(--line) 1px,transparent 1px) 0 0/20px 20px,#f3f6fb}
+.lbi{position:relative;width:100%;aspect-ratio:16/10;max-height:76vh;overflow:hidden;background:linear-gradient(var(--line) 1px,transparent 1px) 0 0/20px 20px,linear-gradient(90deg,var(--line) 1px,transparent 1px) 0 0/20px 20px,#f3f6fb}
 .sl{position:absolute;inset:0;display:grid;place-items:center;opacity:0;pointer-events:none;transition:opacity .35s ease}
 .sl.on{opacity:1}
 .sl img,.sl video{width:100%;height:100%;object-fit:contain}
@@ -374,7 +374,7 @@ footer p{font-size:.84rem;color:var(--mut)}
 const $=s=>document.querySelector(s),H=document.documentElement;H.classList.add('js');
 /* Thêm ảnh/video: img:'images/x.png' hoặc img:'videos/x.mp4' (.mp4/.webm tự phát lặp, tắt tiếng). Không có img thì dùng icon. */
 const F=[
-{img:'https://raw.githubusercontent.com/HoangDoLearnCode/HDBIMTools/main/assets/images/excel.png',t:'Export Excel',d:'Xuất Schedules Revit sang Excel.'},
+{img:'https://raw.githubusercontent.com/HoangDoLearnCode/HDBIMTools/main/assets/images/excel.png',i:'vscode-icons:file-type-excel2',t:'Export Excel',d:'Xuất Schedules Revit sang Excel.'},
 {i:'streamline-plump-color:clean-broom-wipe-flat',t:'Purge Models',d:'Xoá cùng lúc nhiều Views, Sheets, Schedules, View Filters.'},
 {i:'streamline-color:copy-paste',t:'Copy Elements Along Curve',d:'Copy, rải đối tượng theo đường Model Line.'},
 {i:'qlementine-icons:rename-16',t:'Rename Sheets/Views',d:'Đổi tên Sheets/Views hàng loạt.'},
