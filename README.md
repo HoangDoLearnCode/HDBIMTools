@@ -5,7 +5,7 @@
     <b>Bộ công cụ mạnh mẽ hỗ trợ và tối ưu hóa quy trình làm việc tự động trên Autodesk Revit</b>
   </p>
   <p align="center">
-    <a href="https://hoangdolearncode.github.io/HDBIMTools/"><img src="https://img.shields.io/badge/Website-HDBIM Tools-007acc?style=flat-square&logo=netlify" alt="Website"></a>
+    <a href="https://hoangdolearncode.github.io/HDBIMTools/"><img src="https://img.shields.io/badge/Website-HDBIM Tools-007acc?style=flat-square&logo=google" alt="Website"></a>
     <a href="https://github.com/HoangDoLearnCode/HDBIMTools/releases/latest/download/HDBIM-Setup.exe"><img src="https://img.shields.io/badge/Download-Setup.exe-brightgreen?style=flat-square&logo=github" alt="Download Setup"></a>
     <a href="#"><img src="https://img.shields.io/badge/Revit-2022%20--%202027-0696D7?style=flat-square&logo=autodesk" alt="Revit Versions"></a>
     <a href="#"><img src="https://img.shields.io/badge/.NET-Framework%204.8%20%7C%208.0%20%7C%2010.0-512BD4?style=flat-square&logo=dotnet" alt=".NET"></a>
@@ -89,7 +89,7 @@ Mọi đóng góp, báo lỗi hoặc yêu cầu phát triển tính năng mới,
 - **Tác giả:** HOÀNG ĐỖ (BIM Engineer)
 - **📧 Email:** [vanhoang211295@gmail.com](mailto:vanhoang211295@gmail.com)
 - **📞 Zalo / Hotline:** 034 333 5095
-- **🌐 Website:** [hdbimtools.netlify.app](https://hdbimtools.netlify.app/)
+- **🌐 Website:** [HDBIMTools](https://hoangdolearncode.github.io/HDBIMTools/)
 - **📺 YouTube Channel:** [@HDBIMTools](https://youtube.com/@HDBIMTools)
 - **🐙 GitHub Profile:** [HoangDoLearnCode](https://github.com/HoangDoLearnCode)
 
