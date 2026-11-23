@@ -374,7 +374,7 @@ footer p{font-size:.84rem;color:var(--mut)}
 const $=s=>document.querySelector(s),H=document.documentElement;H.classList.add('js');
 /* Thêm ảnh/video: img:'images/x.png' hoặc img:'videos/x.mp4' (.mp4/.webm tự phát lặp, tắt tiếng). Không có img thì dùng icon. */
 const F=[
-{img:'https://raw.githubusercontent.com/HoangDoLearnCode/HDBIMTools/main/assets/images/excel.png',i:'vscode-icons:file-type-excel2',t:'Export Excel',d:'Xuất Schedules Revit sang Excel.'},
+{i:'vscode-icons:file-type-excel2',t:'Export Excel',d:'Xuất Schedules Revit sang Excel.'},
 {i:'streamline-plump-color:clean-broom-wipe-flat',t:'Purge Models',d:'Xoá cùng lúc nhiều Views, Sheets, Schedules, View Filters.'},
 {i:'streamline-color:copy-paste',t:'Copy Elements Along Curve',d:'Copy, rải đối tượng theo đường Model Line.'},
 {i:'qlementine-icons:rename-16',t:'Rename Sheets/Views',d:'Đổi tên Sheets/Views hàng loạt.'},
@@ -412,7 +412,7 @@ const Q=[['Plugin hỗ trợ những phiên bản Revit nào?','Revit 2022 đế
 ['Nhận và nhập License Key ở đâu?','Chọn <code>Purchase</code> tại Panel <strong>HDBIM</strong> trong Revit để đăng ký. <code>License Key</code> được gửi về Email đăng ký, nhập vào <strong>License Manager</strong> để kích hoạt.'],
 ['Cài xong không thấy tab HDBIM trên Ribbon?','Hãy chắc chắn đã đóng Revit trước khi chạy <code>Setup.exe</code> và chọn <strong>Always Load</strong> khi Revit hỏi Load Addin. Nếu vẫn không thấy, nhắn nhóm Zalo hỗ trợ để được kiểm tra.'],
 ['Các gói có được cập nhật bản mới không?','Có. Tất cả các gói đều bao gồm cập nhật <strong>Tự động</strong> và hỗ trợ kỹ thuật.'],
-['Tìm hướng dẫn sử dụng ở đâu?','Có <a href="https://github.com/HoangDoLearnCode/HDBIMTools/raw/main/HDBIMTools%20Manual.pdf?download=true" target="_blank" rel="noopener">Tài liệu hướng dẫn PDF</a> và <a href="https://www.youtube.com/@HDBIMTools" target="_blank" rel="noopener">Tênh YouTube HDBIM Tools</a>.']];
+['Tìm hướng dẫn sử dụng ở đâu?','Có <a href="https://github.com/HoangDoLearnCode/HDBIMTools/raw/main/HDBIMTools%20Manual.pdf?download=true" target="_blank" rel="noopener">Tài liệu hướng dẫn PDF</a> và <a href="https://www.youtube.com/@HDBIMTools" target="_blank" rel="noopener">Kênh YouTube HDBIM Tools</a>.']];
 $('#fq').innerHTML=Q.map(q=>`<details class="rv"><summary>${q[0]}<iconify-icon icon="tabler:chevron-down"></iconify-icon></summary><div class="a">${q[1]}</div></details>`).join('');
 
 /* ribbon demo */
